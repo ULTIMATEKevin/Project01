@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: blue;">
+    <header>
+        <h1 style="text-align: center; color: red;" >
+            Quem eu sou?
+        </h1>
+    </header>
+    <section>
+        <h2>
+            <h3 style="text-align: center; color: red;">
+                Meu nome é Kevin, tenho 23 anos e sou uma Testemunha de Jeová. Sou noivo de uma bela morena chamada Lilian.
+                <div style="text-align: center;">
+                    <img src="kevin&lilian.png" style="border-radius: 20px;">
+                </div>
+            </h3>
+        </h2>
+    </section>
+    <form action="pag2.html" style="text-align: right;">
+        <button type="submit" style="border-radius: 10px; text-align: right;">Continue &#8594</button>
+    </form>
+    <footer style="text-align: center;">
+        <p>&copy; Kevinworld</p>
+    </footer>
+</body>
+</html>
